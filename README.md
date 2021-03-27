@@ -1,2 +1,3 @@
-# jupyter-notebooks
-Jupyter notebooks for the course
+# Public Resources
+
+Public resources for the course.
